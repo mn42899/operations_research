@@ -22,7 +22,7 @@ processing.head()
 """ 1. b) Using Gurobi, what is the minimum cost of the transportation and procurement plan?"""
 
 print("\n" + "="*60)
-print("  Running Optimization: Question 1 Part D (High-Quality Materials)  ")
+print("  Running Optimization: Question 1 Part B (Minimum Cost)  ")
 print("="*60 + "\n")
 
 # Parameters
